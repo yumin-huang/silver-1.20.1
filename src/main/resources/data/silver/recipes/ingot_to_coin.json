@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "silver:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "silver:silver_coin",
+    "count": 8
+  }
+}

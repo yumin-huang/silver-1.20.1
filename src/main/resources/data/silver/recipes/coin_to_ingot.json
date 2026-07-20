@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "silver:silver_coin"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XX "
+  ],
+  "result": {
+    "item": "silver:silver_ingot"
+  },
+  "show_notification": true
+}

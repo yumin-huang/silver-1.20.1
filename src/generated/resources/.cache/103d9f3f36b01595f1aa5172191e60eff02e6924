@@ -1,0 +1,4 @@
+// 1.20.1	2026-07-20T22:45:02.0102509	Registries
+1391e92942ad412377f92be1ae7f7b7395a5b642 data/silver/forge/biome_modifier/add_silver_ore.json
+68db7c459f1298f50a791bdd56aacbfed189e8ec data/silver/worldgen/configured_feature/silver_ore.json
+8a1bced932f58f8d12770b91493f027de1219ac3 data/silver/worldgen/placed_feature/silver_ore_placed.json

@@ -1,0 +1,9 @@
+{
+  "item.silver.silver_ingot": "銀錠",
+  "item.silver.silver_coin": "銀幣",
+  "item.silver.raw_silver": "銀原礦",
+
+  "block.silver.silver_ore": "銀礦",
+  "block.silver.deepslate_silver_ore": "深板岩銀礦",
+  "block.silver.silver_block": "銀方塊"
+}
